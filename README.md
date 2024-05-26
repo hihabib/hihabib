@@ -3,21 +3,18 @@
 <h3 align="center">Web application developer since 2016</h3>
 <a href="https://facebook.com/habibul.islam.1082"> 
 
-![Facebook](https://img.shields.io/badge/dark.htmlii-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
-</a><a href="https://twitter.com/0x_Saikat">
- ![Twitter](https://img.shields.io/badge/0x_Saikat-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)
- </a><a href="https://instagram.com/saikat.py"> ![Instagram](https://img.shields.io/badge/saikat.py-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)</a> ![Github](https://img.shields.io/github/followers/0xh7ml?label=Github&style=flat&logoColor=white)
-![](https://visitor-badge.glitch.me/badge?page_id=0xh7ml)
+![Facebook]([https://i.postimg.cc/TPjmsxJL/fb-1.png](https://img.shields.io/badge/habibul.islam.1082-%231877F2.svg?style=flat&logo=Facebook&logoColor=white))
+</a> ![Github](https://img.shields.io/github/followers/hihabib?label=Github&style=flat&logoColor=white)
+![](https://visitor-badge.glitch.me/badge?page_id=hihabib)
 
 </div>
 
 ## 🙋‍♂️ About Me
 - 🚏  From Bangladesh
-- 🎓 Undergraduate
-- 🧑🏻‍💻 **Programming** | **Bug hunting** | **Pet lover**
-- 🌱 I’m currently focusing on **Pentesting**
-- 📫 mail to: 0xh7ml.py@gmail.com
-- ⚡ Fun fact **I'm fond of playing games and go to travel often.**
+- 🎓  Undergraduate
+- 🧑🏻‍💻  **Problem Solving** | **Development** | **Youtuber** | **Trainer**
+- 🌱  I’m currently focusing on **WordPress**
+- 📫  mail to: habibulislam6862@gmail.com
 
 <br>
 
@@ -28,11 +25,13 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&style=flat-square) 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
- ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) 
- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![ReactJS](https://shields.io/badge/React.JS-black?logo=react&style=flat-square) 
+  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs) 
+ ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 </div>
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
 
@@ -43,19 +42,12 @@
 
 ## 📈 My Github Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0xh7ml&show_icons=true&count_private=true&theme=radical&hide_border=true" width="380"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xh7ml&theme=radical&hide_border=true" width=380/>
+<img src="https://github-readme-stats.vercel.app/api?username=hihabib&show_icons=true&count_private=true&theme=radical&hide_border=true" width="380"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hihabib&theme=radical&hide_border=true" width=380/>
 </div>
 <br>
 <br>
 
-## 📈 TryHackMe Stats
-
-<br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xh7ml.png" alt="TryHackMe">
-
-<br>
 
 ## ✅ Acknowledged By
 
