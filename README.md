@@ -3,7 +3,7 @@
 <h3 align="center">Web application developer since 2016</h3>
 <a href="https://facebook.com/habibul.islam.1082"> 
 
-![Facebook]([https://i.postimg.cc/TPjmsxJL/fb-1.png](https://img.shields.io/badge/habibul.islam.1082-%231877F2.svg?style=flat&logo=Facebook&logoColor=white))
+![Facebook](https://img.shields.io/badge/habibul.islam.1082-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)
 </a> ![Github](https://img.shields.io/github/followers/hihabib?label=Github&style=flat&logoColor=white)
 ![](https://visitor-badge.glitch.me/badge?page_id=hihabib)
 
@@ -33,7 +33,7 @@
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs) 
  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 </div>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh7ml&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hihabib&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&hide=c" width="345"><br>
 
 <br><br><br><br><p>
 
@@ -49,40 +49,16 @@
 <br>
 
 
-## ✅ Acknowledged By
+## ✅ About Me
 
-  <br><em>As I'm a **Bug hunter** aka **ethical hacker** / **security researcher** . I've helped many well-known company to patch various kind of security vulnerabilities which may led them harm or business loss. I've submitted those issues ethically to their concern team and they fixed it. They appretiated my efforts and acknowledge me. There is the list of companies I've worked.</em>
-<br>
- <ul>
-    <li>
-        <h4><a style="color:#2ac3de;text-decoration: none;" href="https://payoneer.com">Payoneer</a></h4>
-    </li>
-    <li>
-     <h4><a href="https://chaldal.com/">Chaldal</a></h4>
-    </li>
-    <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://skillshare.com">Skillshare</a></h4>
-    </li>
-    <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://athento.com">Athento
-     </a></h4>
-    </li>
-    <li>
-        <h4><a style="color:#2ac3de!important;text-decoration:none!important;" href="https://bykea.com">Bykea</a></h4>
-    </li>
-    <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;" href="https://pickme.lk/">PickMe</a></h4>
-    </li>
-    <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;"href="https://silvergoldbull.com/">Silver Gold Bull</a></h4>
-    </li>
-        <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;"href="https://nordvpn.com/">NordVpn</a></h4>
-    </li>
-     </li>
-        <li>
-        <h4><a style="color:#2ac3de;text-decoration:none;"href="https://todoist.com/">Doist Inc.</a></h4>
-    </li>
-</ul>
+  <br><em>I am a qualified and professional web developer with five years of
+experience in WordPress. I have been working with WordPress since
+2016 but not regularly. I have explored tons of technology in my life.
+Currently, I like to work in WordPress. I have a wide range of experience
+in WordPress custom theme development and Web design. I have also
+worked as a MERN stack developer. I've good skill in ReactJS as well. I
+have worked in Upwork and Freelancer before as a Freelancer. I have
+worked with several company outside of marketplace as well.</em>
+
 <br>
 <br>
