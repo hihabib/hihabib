@@ -13,7 +13,7 @@
 - 🚏  From Bangladesh
 - 🎓  Undergraduate
 - 🧑🏻‍💻  **Problem Solving** | **Development** | **Youtuber** | **Trainer**
-- 🌱  I’m currently focusing on **WordPress**
+- 🌱  I’m currently focusing on **Testing**
 - 📫  mail to: habibulislam6862@gmail.com
 
 <br>
