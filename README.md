@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me
 - 🚏  From Bangladesh
-- 🎓  Undergraduate
+- 🎓  Undergraduate (in progress)
 - 🧑🏻‍💻  **Problem Solving** | **Development** | **Youtuber** | **Trainer**
 - 🌱  I’m currently focusing on **Testing**
 - 📫  mail to: habibulislam6862@gmail.com
